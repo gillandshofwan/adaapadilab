@@ -1,7 +1,7 @@
 import streamlit as st
+from datetime import datetime
 
-st.title("Welcom to ADA APA DI LAB",text_alignment="center")
-st.title(":green[Ada yang bisa di bantu?]",text_alignment="center")
+st.title("Aplikasi Hitung Usia")
 
 # Input pengguna
 nama = st.text_input("Masukkan nama")
