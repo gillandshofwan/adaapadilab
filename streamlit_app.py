@@ -20,3 +20,6 @@ if st.button("Tampilkan Hasil"):
         f"Halo **{nama}**, usia Anda sekarang adalah **{usia} tahun**, "
         f"dan Anda tinggal di **{kota}**."
     )
+
+
+st.link_button("link gform", "https://youtu.be/naz0-szzYXk?si=bUAx3Ox6zBFhAJLh")
